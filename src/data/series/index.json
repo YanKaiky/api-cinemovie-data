@@ -1,28 +1,17 @@
 [
     {
         "id": 1,
-        "name": "Castlevânia",
-        "seasons": 4,
-        "episodes": 32,
+        "name": "The Witcher",
+        "seasons": 1,
+        "episodes": 8,
         "genre": "Fantasia",
-        "year": 2017,
-        "synopsis": "Um caçador de vampiros luta para salvar uma cidade sitiada por um exército de criaturas controladas pelo próprio Drácula. Inspirado no clássico videogame.",
-        "folder": "https://img.elo7.com.br/product/zoom/2578AC6/big-poster-gamer-castlevania-lo028-tamanho-90x60-cm-poster-de-jogo.jpg",
-        "trailer": "https://www.youtube.com/embed/ukP2Tk7UkKI"
+        "year": 2019,
+        "synopsis": "Geralt de Rívia, um mutante caçador de monstros, sai em busca de seu destino em um mundo turbulento, onde as pessoas podem ser mais perversas que as criaturas selvagens.",
+        "folder": "https://br.web.img3.acsta.net/pictures/19/11/29/17/57/5161763.jpg",
+        "trailer": "https://www.youtube.com/embed/tjujvMkqWe4"
     },
     {
         "id": 2,
-        "name": "Arqueiro",
-        "seasons": 8,
-        "episodes": 170,
-        "genre": "Drama",
-        "year": 2012,
-        "synopsis": "Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.",
-        "folder": "https://br.web.img3.acsta.net/pictures/17/10/02/19/20/5681659.jpg",
-        "trailer": "https://www.youtube.com/embed/2q3l4fMVCO8"
-    },
-    {
-        "id": 3,
         "name": "Justiça Jovem",
         "seasons": 4,
         "episodes": 72,
@@ -31,6 +20,17 @@
         "synopsis": "As aventuras de um grupo de adolescentes com habilidades especiais, amigos e membros de uma operação secreta, a 'The Team', que funciona como a unidade juvenil da poderosa equipe de super-heróis Liga da Justiça.",
         "folder": "https://sportshub.cbsistatic.com/i/2021/10/08/5a2a358a-e89a-4529-85cb-34c6d5279067/young-justice-phantoms.jpg?auto=webp&width=810&height=1200&crop=0.675:1,smart",
         "trailer": "https://www.youtube.com/embed/R0tVBhBg9Jo"
+    },
+    {
+        "id": 3,
+        "name": "Arqueiro",
+        "seasons": 8,
+        "episodes": 170,
+        "genre": "Drama",
+        "year": 2012,
+        "synopsis": "Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.",
+        "folder": "https://br.web.img3.acsta.net/pictures/17/10/02/19/20/5681659.jpg",
+        "trailer": "https://www.youtube.com/embed/2q3l4fMVCO8"
     },
     {
         "id": 4,
@@ -45,14 +45,14 @@
     },
     {
         "id": 5,
-        "name": "The Witcher",
-        "seasons": 1,
-        "episodes": 8,
-        "genre": "Fantasia",
-        "year": 2019,
-        "synopsis": "Geralt de Rívia, um mutante caçador de monstros, sai em busca de seu destino em um mundo turbulento, onde as pessoas podem ser mais perversas que as criaturas selvagens.",
-        "folder": "https://br.web.img3.acsta.net/pictures/19/11/29/17/57/5161763.jpg",
-        "trailer": "https://www.youtube.com/embed/tjujvMkqWe4"
+        "name": "Marco Polo",
+        "seasons": 2,
+        "episodes": 20,
+        "genre": "Ação",
+        "year": 2014,
+        "synopsis": "Marco segue a Rota da Seda até a cidade do imperador Kublai Khan, onde observa a cultura, política e técnicas de guerra dos chineses.",
+        "folder": "https://series.guru/uploads/series/poster/marco-polo-c2756.jpg",
+        "trailer": "https://youtube.com/embed/bhgMdtCu5Tw"
     },
     {
         "id": 6,
