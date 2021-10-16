@@ -2,81 +2,231 @@
     {
         "id": 1,
         "name": "Vingadores Ultimato",
-        "year": 2018,
+        "genre": "Ação/Ficção científica",
+        "time": "3h 2m",
+        "year": 2019,
         "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
         "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
         "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
     },
     {
         "id": 2,
-        "name": "Vingadores Ultimato",
+        "name": "Vingadores Guerra Infinita",
+        "genre": "Ação/Ficção científica",
+        "time": "2h 29m",
         "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "synopsis": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+        "folder": "https://br.web.img2.acsta.net/pictures/18/03/16/15/08/2019826.jpg",
+        "trailer": "https://www.youtube.com/embed/t_ULBP6V9bg"
     },
     {
         "id": 3,
-        "name": "Vingadores Ultimato",
+        "name": "Homem-Formiga e a Vespa",
+        "genre": "Ação/Aventura",
+        "time": "1h 58m",
         "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "synopsis": "Scott Lang lida com as consequências de suas escolhas tanto como super-herói quanto como pai. Enquanto tenta reequilibrar sua vida com suas responsabilidades como o Homem-Formiga, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente. Scott deve mais uma vez vestir o uniforme e aprender a lutar ao lado da Vespa, trabalhando em conjunto para descobrir segredos do passado.",
+        "folder": "https://br.web.img3.acsta.net/pictures/18/06/15/19/57/2102620.jpg",
+        "trailer": "https://www.youtube.com/embed/0HGBv7s1Y7E"
     },
     {
         "id": 4,
-        "name": "Vingadores Ultimato",
-        "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "name": "Thor: Ragnarok",
+        "genre": "Ação/Aventura",
+        "time": "2h 10m",
+        "year": 2017,
+        "synopsis": "Após anos afastado, Thor retorna para casa e descobre que seu pai Odin, rei de Asgard, está desaparecido. Após encontrá-lo, ele toma conhecimento de sua irmã mais velha, Hela, a poderosa e implacável deusa da morte. Com o auxílio de Loki, ele enfrenta Hela, mas durante a batalha, Thor acaba preso em Sakaar, um planeta do outro lado do universo. Agora, ele precisa correr contra o tempo para voltar a Asgard e impedir o Ragnarok, a destruição de seu mundo.",
+        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9Ql3T-MXK5X_x2lHdNB4lmB0XC_zFHTCtcIT6YwGbXgrNdbT",
+        "trailer": "https://www.youtube.com/embed/UvNnqWLruXA"
     },
     {
         "id": 5,
-        "name": "Vingadores Ultimato",
-        "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "name": "Doutor Estranho",
+        "genre": "Ação/Aventura",
+        "time": "1h 55m",
+        "year": 2017,
+        "synopsis": "Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
+        "folder": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-8PbF4q7qvZVy7GEeFxzSJxvnCVeFehpH16yrer0m7dZjQDmk",
+        "trailer": "https://www.youtube.com/embed/YUfWrIcX4zw"
     },
     {
         "id": 6,
-        "name": "Vingadores Ultimato",
-        "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "name": "Homem-Aranha: De Volta ao Lar",
+        "genre": "Ação/Aventura",
+        "time": "2h 13m",
+        "year": 2017,
+        "synopsis": "Depois de lutar ao lado dos Vingadores, chegou a hora do jovem Peter Parker voltar para casa em Nova York ao lado de sua tia May. Sob o olhar atento do mentor Tony Stark, Peter começa a abraçar sua nova identidade como Homem-Aranha e combate diariamente pequenos crimes nas redondezas. Ele acredita que encontrou a missão de sua vida quando o terrível vilão Abutre surge ameaçando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
+        "folder": "https://img.elo7.com.br/product/original/26779FB/big-poster-filme-homem-aranha-de-volta-ao-lar-lo01-90x60-cm-marvel.jpg",
+        "trailer": "https://www.youtube.com/embed/2x-2iYxgMFU"
     },
     {
         "id": 7,
-        "name": "Vingadores Ultimato",
+        "name": "Pantera Negra",
+        "genre": "Ação/Aventura",
+        "time": "2h 15m",
         "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "synopsis": "Conheça a história de T'Challa, príncipe do reino de Wakanda, que perde o seu pai e viaja para os Estados Unidos, onde tem contato com os Vingadores. Entre as suas habilidades estão a velocidade, inteligência e os sentidos apurados.",
+        "folder": "https://www.cafecomfilme.com.br/media/k2/items/cache/830911234d1f27380eae9a6b119f1fb7_XL.jpg?t=20210508_231140",
+        "trailer": "https://www.youtube.com/embed/wL4a4MafSjQ"
     },
     {
         "id": 8,
-        "name": "Vingadores Ultimato",
-        "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "name": "Viúva Negra",
+        "genre": "Ação/Aventura",
+        "time": "2h 13m",
+        "year": 2021,
+        "synopsis": "Ao nascer, a Viúva Negra, então conhecida como Natasha Romanova, é entregue à KGB, que a prepara para se tornar sua agente suprema. Porém, o seu próprio governo tenta matá-la quando a União Soviética se desfaz.",
+        "folder": "https://i1.wp.com/www.popsfera.com.br/wp-content/uploads/2021/06/E6350E2B-45B1-4DBA-999A-BD34D797001D.jpeg?resize=691%2C1024&ssl=1",
+        "trailer": "https://www.youtube.com/embed/uNAxHLp7wv8"
     },
     {
         "id": 9,
-        "name": "Vingadores Ultimato",
-        "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "name": "Capitão América: Guerra Civil",
+        "genre": "Ação/Aventura",
+        "time": "2h 28m",
+        "year": 2016,
+        "synopsis": "Depois do ataque de Ultron, os políticos decidem controlar os Vingadores, já que suas ações afetam toda a humanidade. A decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.",
+        "folder": "https://img.elo7.com.br/product/zoom/2664EEC/big-poster-filme-capitao-america-guerra-civil-lo03-90x60-cm-vingadores.jpg",
+        "trailer": "https://www.youtube.com/embed/FRLYZn5PGuA"
     },
     {
         "id": 10,
-        "name": "Vingadores Ultimato",
-        "year": 2018,
-        "synopsis": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
-        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwtU95JygcmCq4e3XPpL9W0ATjGFoQCQm16dbpIp7BM36B7lH",
-        "trailer": "https://www.youtube.com/embed/spJoZReeIeQ"
+        "name": "Homem-Formiga",
+        "genre": "Ação/Aventura",
+        "time": "1h 57m",
+        "year": 2015,
+        "synopsis": "Dr. Hank Pym transforma um talentoso ladrão no herói Homem-Formiga. Ele quer impedir que seu antigo pupilo consiga replicar a fórmula da roupa que dá o poder do encolhimento, força sobre-humana e a capacidade de controlar um exército de formigas.",
+        "folder": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1r-pbiYaVxgCaLVIUY3GEG7gXQRHg-sfgpwEPafNZAV5ZIfZg",
+        "trailer": "https://www.youtube.com/embed/wITUolzfkwI"
+    },
+    {
+        "id": 11,
+        "name": "Vingadores: Era de Ultron",
+        "genre": "Ação/Aventura",
+        "time": "2h 21m",
+        "year": 2015,
+        "synopsis": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, Capitão América, Homem de Ferro, Thor, Hulk, Viúva Negra e Gavião Arqueiro terão que se unir para mais uma vez salvar a raça humana da extinção.",
+        "folder": "https://i.pinimg.com/originals/fa/d5/ef/fad5ef27df67258a8af88a515ea49ee3.jpg",
+        "trailer": "https://www.youtube.com/embed/lGO6FcnZ0ek"
+    },
+    {
+        "id": 12,
+        "name": "Guardiões da Galáxia Vol. 2",
+        "genre": "Ficção científica/Ação",
+        "time": "2h 17m",
+        "year": 2017,
+        "synopsis": "Os Guardiões da Galáxia lutam para manter sua nova família unida enquanto desvendam os mistérios sobre o verdadeiro pai de Peter Quill.",
+        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3jhaTLkrcaiAxYv7EamUq2R--8wK4l6wH9UwQi97iYwaYn4Zm",
+        "trailer": "https://www.youtube.com/embed/6FVulnc4poc"
+    },
+    {
+        "id": 13,
+        "name": "Guardiões da Galáxia",
+        "genre": "Ação/Ficção científica",
+        "time": "2h 2m",
+        "year": 2014,
+        "synopsis": "O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.",
+        "folder": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1P_hV6E3_OlEq4MdFMQje5SyBUkAH0JKasP_iVJG4HMT69xn2",
+        "trailer": "https://www.youtube.com/embed/8VN_l57QWyQ"
+    },
+    {
+        "id": 14,
+        "name": "Capitão América 2: O Soldado Invernal",
+        "genre": "Ação/Aventura",
+        "time": "2h 16m",
+        "year": 2014,
+        "synopsis": "Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.",
+        "folder": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHB-5yWxF8RJauEqz4LVi9qL9D80J7ZCW98NELAswoBWLATzU-",
+        "trailer": "https://www.youtube.com/embed/Fl89Ym_fQJc"
+    },
+    {
+        "id": 15,
+        "name": "Thor: O Mundo Sombrio",
+        "genre": "Ação/Aventura",
+        "time": "1h 52m",
+        "year": 2013,
+        "synopsis": "Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.",
+        "folder": "https://br.web.img2.acsta.net/pictures/210/240/21024039_20130801212713895.jpg",
+        "trailer": "https://www.youtube.com/embed/BmCT2nQu90A"
+    },
+    {
+        "id": 16,
+        "name": "Homem de Ferro 3",
+        "genre": "Ação/Ficção científica",
+        "time": "2h 10m",
+        "year": 2013,
+        "synopsis": "Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.",
+        "folder": "https://br.web.img2.acsta.net/medias/nmedia/18/92/08/07/20488996.jpg",
+        "trailer": "https://www.youtube.com/embed/igfXmU1r_mc"
+    },
+    {
+        "id": 17,
+        "name": "Os Vingadores",
+        "genre": "Ação/Aventura",
+        "time": "2h 23m",
+        "year": 2012,
+        "synopsis": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+        "folder": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmkXsIZ89RVeyZkI_v3cLLB4MFd-KlVNXub-M16petJKffpZiw",
+        "trailer": "https://www.youtube.com/embed/QDvbNyl5xnA"
+    },
+    {
+        "id": 18,
+        "name": "Thor",
+        "genre": "Ação/Fantasia",
+        "time": "1h 54m",
+        "year": 2011,
+        "synopsis": "Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.",
+        "folder": "https://img.elo7.com.br/product/original/2678608/big-poster-filme-thor-2011-lo06-tamanho-90x60-cm-vingadores.jpg",
+        "trailer": "https://img.elo7.com.br/product/original/2678608/big-poster-filme-thor-2011-lo06-tamanho-90x60-cm-vingadores.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Homem de Ferro 2",
+        "genre": "Ação/Aventura",
+        "time": "2h 5m",
+        "year": 2010,
+        "synopsis": "Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas. Com a bela Pepper Potts e o amigo 'Rhodey' Rhodes ao seu lado, Tony precisa forjar novas alianças e confrontar um inimigo poderoso.",
+        "folder": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwqQk0Z01Jp-W4DEjGyzqorETmYK4pcHGNwFh8ZWCd49FLF2yu",
+        "trailer": "https://www.youtube.com/embed/qsRZghNciIo"
+    },
+    {
+        "id": 20,
+        "name": "O Incrível Hulk",
+        "genre": "Ação/Ficção científica",
+        "time": "1h 52m",
+        "year": 2008,
+        "synopsis": "O cientista Bruce Banner se esconde no Brasil enquanto busca desesperadamente a cura da mutação que o transforma em um monstro incontrolável. Só assim ele poderá novamente levar uma vida normal e ficar ao lado da mulher que ama. Porém, durante este processo, ele precisa lutar contra o Abominável, um novo inimigo que quer capturá-lo.",
+        "folder": "http://vortexcultural.com.br/images/2019/04/Incrivel-Hulk-2008.jpg",
+        "trailer": "https://www.youtube.com/embed/xbqNb2PFKKA"
+    },
+    {
+        "id": 21,
+        "name": "Homem de Ferro",
+        "genre": "Ação/Aventura",
+        "time": "2h 6m",
+        "year": 2008,
+        "synopsis": "Tony Stark é um industrial bilionário e inventor brilhante que realiza testes bélicos no exterior, mas é sequestrado por terroristas que o forçam a construir uma arma devastadora. Em vez disso, ele constrói uma armadura blindada e enfrenta seus sequestradores. Ao voltar para os EUA, Stark aprimora a armadura e a utiliza para combater o crime.",
+        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrCXGkcIKEDOzMH2lUW9IJLM55WYA21Y1yKIAo74q9jbyEDKt",
+        "trailer": "https://www.youtube.com/embed/8ugaeA-nMTc"
+    },
+    {
+        "id": 22,
+        "name": "Capitã Marvel",
+        "genre": "Ação/Ficção científica",
+        "time": "2h 4m",
+        "year": 2019,
+        "synopsis": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.",
+        "folder": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMEDMzGG1lkpnENo3hRNA6TSyZqWuGKc2GR0qg6z3j8Ca3AYlx",
+        "trailer": "https://www.youtube.com/embed/av2jODMFu6M"
+    },
+    {
+        "id": 23,
+        "name": "Capitão América: O Primeiro Vingador",
+        "genre": "Ação/Aventura",
+        "time": "2h 4m",
+        "year": 2011,
+        "synopsis": "Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.",
+        "folder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslzeUsgc6Q6940ev6TzdxTYqacr8e2vBPUFQytEna_tpn6ytK",
+        "trailer": "https://www.youtube.com/embed/6j2IJlC6gic"
     }
 ]
