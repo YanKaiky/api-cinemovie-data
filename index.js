@@ -32,5 +32,5 @@ server.get("/series", (req, res) => {
 })
 
 server.listen(9000, () => {
-    console.log("Porta 9000...")
+    console.log("Port 9000...")
 })
