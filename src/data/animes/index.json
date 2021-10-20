@@ -12,7 +12,7 @@
         "trailer": "https://youtube.com/embed/aguciLNGp60"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Castlevânia",
         "seasons": 4,
         "episodes": 32,
@@ -22,5 +22,29 @@
         "synopsis": "Um caçador de vampiros luta para salvar uma cidade sitiada por um exército de criaturas controladas pelo próprio Drácula. Inspirado no clássico videogame.",
         "folder": "https://img.elo7.com.br/product/zoom/2578AC6/big-poster-gamer-castlevania-lo028-tamanho-90x60-cm-poster-de-jogo.jpg",
         "trailer": "https://www.youtube.com/embed/ukP2Tk7UkKI"
+    },
+    {
+        "id": 3,
+        "name": "Avatar: A Lenda de Aang",
+        "seasons": 3,
+        "episodes": 61,
+        "genre": "Infantil",
+        "year": 2005,
+        "direction": "Michael Dante DiMartino, Bryan Konietzko",
+        "synopsis": "Aang é um menino de apenas 12 anos que descobre ser o Avatar, grande mestre responsável por garantir o equilíbrio entre os quatro elementos - água, terra, fogo e ar - e suas respectivas nações representantes, mantendo o planeta em segurança.",
+        "folder": "https://violettebooks.files.wordpress.com/2020/06/atla.jpg",
+        "trailer": "https://www.youtube.com/embed/SC3e7BPkoxk"
+    },
+    {
+        "id": 4,
+        "name": "Avatar: A Lenda de Korra",
+        "seasons": 4,
+        "episodes": 52,
+        "genre": "infantil",
+        "year": 2012,
+        "direction": "Michael Dante DiMartino, Bryan Konietzko",
+        "synopsis": "The Legend of Korra acompanha o Avatar depois de Aang: uma garota rebelde, passional e destemida chamada Korra, vinda da Tribo da Água. Desde criança ela já domina três dos quatro elementos - terra, água e fogo - e precisa agora aprender a dobrar o ar.",
+        "folder": "https://br.web.img3.acsta.net/pictures/14/07/18/10/18/130208.jpg",
+        "trailer": "https://www.youtube.com/embed/hANfvfvD4Hc"
     }
 ]

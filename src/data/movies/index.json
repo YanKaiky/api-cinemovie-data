@@ -254,6 +254,17 @@
     },
     {
         "id": 24,
+        "name": "Homem-Aranha: Longe de Casa",
+        "genre": "Ação/Ficção científica",
+        "time": "2h 10m",
+        "year": 2019,
+        "direction": "Jon Watts",
+        "synopsis": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+        "folder": "https://br.web.img2.acsta.net/pictures/19/07/05/17/30/5167951.jpg",
+        "trailer": "https://www.youtube.com/embed/L8qtbebt-y0"
+    },
+    {
+        "id": 25,
         "name": "Venom",
         "genre": "Ação/Ficção científica",
         "time": "2h 20m",
@@ -264,7 +275,7 @@
         "trailer": "https://youtube.com/embed/EQxCycVTfcU"
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "Shang Chi",
         "genre": "Ação/Fantasia",
         "time": "2h 12m",
@@ -275,7 +286,7 @@
         "trailer": "https://youtube.com/embed/AfHiUtxrmiY"
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "Venom: Tempo de Carnificina",
         "genre": "Ação/Ficção científica",
         "time": "1h 45m",
@@ -284,5 +295,38 @@
         "synopsis": "O relacionamento entre Eddie e Venom está evoluindo. Buscando a melhor forma de lidar com a inevitável simbiose, esse dois lados descobrem como viver juntos e, de alguma forma, se tornarem melhores juntos do que separados.",
         "folder": "https://uploads.jovemnerd.com.br/wp-content/uploads/2021/08/venom-tempo-de-carnificina-poster.jpg",
         "trailer": "https://youtube.com/embed/7KvioH80zLI"
+    },
+    {
+        "id": 28,
+        "name": "Deadpool",
+        "genre": "Ação/Aventura",
+        "time": "1h 48m",
+        "year": 2016,
+        "direction": "Tim Miller",
+        "synopsis": "Wade Wilson é um ex-agente especial que passou a trabalhar como mercenário. Seu mundo é destruído quando um cientista maligno o tortura e o desfigura completamente. O experimento brutal transforma Wade em Deadpool, que ganha poderes especiais de cura e uma força aprimorada. Com a ajuda de aliados poderosos e um senso de humor mais desbocado e cínico do que nunca, o irreverente anti-herói usa habilidades e métodos violentos para se vingar do homem que quase acabou com a sua vida.",
+        "folder": "https://img.elo7.com.br/product/zoom/1E3BBAE/big-poster-do-filme-deadpool-tamanho-90x-0-cm-loot-op-007-marvel.jpg",
+        "trailer": "https://www.youtube.com/embed/Q9X-bAE8KTc"
+    },
+    {
+        "id": 29,
+        "name": "Deadpool 2",
+        "genre": "Ação/Aventura",
+        "time": "2 horas",
+        "year": 2018,
+        "direction": "David Leitch",
+        "synopsis": "O supersoldado Cable vem do futuro com a missão de assassinar o jovem mutante Russel e o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.",
+        "folder": "https://sucodemanga.com.br/wp-content/uploads/2018/04/deadpool-2-poster.jpg",
+        "trailer": "https://www.youtube.com/embed/a7t-avKlpkc"
+    },
+    {
+        "id": 30,
+        "name": "Homem-Aranha no Aranhaverso",
+        "genre": "Ação/Infantil",
+        "time": "1h 56m",
+        "year": 2018,
+        "direction": "Peter Ramsey, Bob Persichetti, Rodney Rothman",
+        "synopsis": "Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.",
+        "folder": "https://br.web.img3.acsta.net/pictures/18/12/05/16/28/3718855.jpg",
+        "trailer": "https://www.youtube.com/embed/SS6ABPkfmBE"
     }
 ]
