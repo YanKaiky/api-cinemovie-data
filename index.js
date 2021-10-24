@@ -3,6 +3,26 @@ const cors = require('cors');
 const server = express();
 server.use(cors());
 
+//Conexão com o Banco de Dados
+
+const mysql = require("mysql");
+
+var connectionDB = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "password",
+    database: "cinemovie"
+})
+
+connectionDB.connect((err) => {
+    if (err) {
+        console.error("Erro na conexão", err.stack)
+        return;
+    }
+
+    console.log("Conectado ao ID", connectionDB.threadId)
+});
+
 const movies = require("./src/data/movies/index.json");
 const series = require("./src/data/series/index.json");
 const animes = require("./src/data/animes/index.json");
@@ -24,6 +44,14 @@ server.get("/animes", (req, res) => {
 })
 
 server.get("/filmes", (req, res) => {
+    /* const movies = connectionDB.query("SELECT * FROM movies", (err, rows) => {
+        if (!err) {
+            console.log("Resultado", rows)
+        } else {
+            console.log("Erro ao realizar a consulta")
+        }
+    });
+ */
     return res.json(movies)
 })
 
