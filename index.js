@@ -44,14 +44,6 @@ server.get("/animes", (req, res) => {
 })
 
 server.get("/filmes", (req, res) => {
-    /* const movies = connectionDB.query("SELECT * FROM movies", (err, rows) => {
-        if (!err) {
-            console.log("Resultado", rows)
-        } else {
-            console.log("Erro ao realizar a consulta")
-        }
-    });
- */
     return res.json(movies)
 })
 
