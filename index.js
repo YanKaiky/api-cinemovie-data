@@ -15,19 +15,19 @@ const year = data.getUTCFullYear();
 const hours = data.getHours();
 const minutes = data.getMinutes();
 
-server.get("/", (req, res) => {
+server.get("/", (_, res) => {
     return res.json({DateHour: `${day}/${month + 1}/${year} - ${hours}:${minutes}`})
 })
 
-server.get("/animes", (req, res) => {
+server.get("/animes", (_, res) => {
     return res.json(animes)
 })
 
-server.get("/filmes", (req, res) => {
+server.get("/filmes", (_, res) => {
     return res.json(movies)
 })
 
-server.get("/series", (req, res) => {
+server.get("/series", (_, res) => {
     return res.json(series)
 })
 
