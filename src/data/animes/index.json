@@ -1,6 +1,18 @@
 [
     {
         "id": 1,
+        "name": "Círculo de Fogo - The Black",
+        "seasons": 1,
+        "episodes": 7,
+        "genre": "Ação",
+        "year": 2021,
+        "direction": "Guillermo del Toro",
+        "synopsis": "Em uma terra tomada por monstros, dois irmãos procuram os pais e acabam encontrando criaturas desconhecidas, figuras estranhas e aliados inesperados.",
+        "folder": "https://flxt.tmsimg.com/assets/p19465225_b_v8_aa.jpg",
+        "trailer": "https://youtube.com/embed/XgkLBTv7ZU8"
+    },
+    {
+        "id": 2,
         "name": "Yasuke",
         "seasons": 1,
         "episodes": 6,
@@ -12,7 +24,7 @@
         "trailer": "https://youtube.com/embed/aguciLNGp60"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Castlevânia",
         "seasons": 4,
         "episodes": 32,
@@ -24,7 +36,7 @@
         "trailer": "https://www.youtube.com/embed/ukP2Tk7UkKI"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Avatar: A Lenda de Aang",
         "seasons": 3,
         "episodes": 61,
@@ -36,7 +48,7 @@
         "trailer": "https://www.youtube.com/embed/SC3e7BPkoxk"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Avatar: A Lenda de Korra",
         "seasons": 4,
         "episodes": 52,

@@ -3,6 +3,26 @@ const cors = require('cors');
 const server = express();
 server.use(cors());
 
+//Conexão com o Banco de Dados
+
+const mysql = require("mysql");
+
+var connectionDB = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "u4Ued~!7'tR*(+P]'>3;rxFCf$rW+=C.N3rmJ2ficjW",
+    database: "cinemovie"
+})
+
+connectionDB.connect((err) => {
+    if (err) {
+        console.error("Erro na conexão", err.stack)
+        return;
+    }
+
+    console.log("Conectado ao ID", connectionDB.threadId)
+});
+
 const movies = require("./src/data/movies/index.json");
 const series = require("./src/data/series/index.json");
 const animes = require("./src/data/animes/index.json");
