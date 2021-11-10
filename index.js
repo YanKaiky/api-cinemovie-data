@@ -23,7 +23,7 @@ server.get("/animes", (_, res) => {
     return res.json(animes)
 })
 
-server.get("/filmes", (_, res) => {
+server.get("/movies", (_, res) => {
     return res.json(movies)
 })
 
