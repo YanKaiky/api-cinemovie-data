@@ -52,11 +52,35 @@
         "name": "Avatar: A Lenda de Korra",
         "seasons": 4,
         "episodes": 52,
-        "genre": "infantil",
+        "genre": "Infantil",
         "year": 2012,
         "direction": "Michael Dante DiMartino, Bryan Konietzko",
         "synopsis": "The Legend of Korra acompanha o Avatar depois de Aang: uma garota rebelde, passional e destemida chamada Korra, vinda da Tribo da Água. Desde criança ela já domina três dos quatro elementos - terra, água e fogo - e precisa agora aprender a dobrar o ar.",
         "folder": "https://br.web.img3.acsta.net/pictures/14/07/18/10/18/130208.jpg",
         "trailer": "https://www.youtube.com/embed/hANfvfvD4Hc"
+    },
+    {
+        "id": 6,
+        "name": "Dota: Dragon’s Blood",
+        "seasons": 1,
+        "episodes": 8,
+        "genre": "Fantasia",
+        "year": 2021,
+        "direction": "Michael Dante DiMartino, Ashley Miller, Bryan Konietzko",
+        "synopsis": "Um Cavaleiro Dragão em conflito deve usar a força do dragão interior para deter um demônio mortal nesta fantasia épica baseada no jogo online.",
+        "folder": "https://pbs.twimg.com/media/Ew0KoohVcAM0w9e.jpg",
+        "trailer": "https://www.youtube.com/embed/OAG6dF1QDws"
+    },
+    {
+        "id": 7,
+        "name": "Super Crooks",
+        "seasons": 1,
+        "episodes": 13,
+        "genre": "Assalto",
+        "year": 2021,
+        "direction": "Mark Millar",
+        "synopsis": "Um garoto chamado Johnny Bolt percebe que pode controlar a eletricidade e logo começa a testar os limites de seus poderes recém-descobertos.",
+        "folder": "https://jovemnerd.com.br/wp-content/uploads/2021/09/Super-Crooks-anime-netflix-mark-millar-810x1200.jpg",
+        "trailer": "https://www.youtube.com/embed/qOCFaeaJVDQ"
     }
 ]
