@@ -31,6 +31,6 @@ server.get("/series", (_, res) => {
     return res.json(series)
 })
 
-server.listen(9000, () => {
+server.listen(process.env.PORT || 9000, () => {
     console.log("Port 9000...")
 })
