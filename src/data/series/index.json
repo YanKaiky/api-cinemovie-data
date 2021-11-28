@@ -130,5 +130,29 @@
         "synopsis": "Ragnar Lothbrok (Travis Fimmel), o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de guerreiro implacável, Ragnar segue as tradições nórdicas e é devoto dos deuses.",
         "folder": "https://series.guru/uploads/series/poster/vikings-ad7cf.jpg",
         "trailer": "https://www.youtube.com/embed/9GgxinPwAGc"
+    },
+    {
+        "id": 12,
+        "name": "Arcane",
+        "seasons": 1,
+        "episodes": 9,
+        "genre": "Fantasia Científica",
+        "year": 2021,
+        "direction": "Ash Brannon, Pascal Charrue, Arnaud Delord",
+        "synopsis": "Em meio ao conflito entre as cidades-gêmeas de Piltover e Zaun, duas irmãs lutam em lados opostos de uma guerra entre tecnologias mágicas e convicções incompatíveis.",
+        "folder": "https://universoreverso.com.br/wp-content/uploads/2021/11/arcane-poster.jpg",
+        "trailer": "https://www.youtube.com/embed/3MB3OK3Xnvs"
+    },
+    {
+        "id": 13,
+        "name": "Mestres do Universo: Salvando Eternia",
+        "seasons": 2,
+        "episodes": 10,
+        "genre": "Ação",
+        "year": 2021,
+        "direction": "Kevin Smith",
+        "synopsis": "Depois de uma batalha catastrófica dividir Eternia, Teela e uma aliança improvável precisam evitar o fim do Universo.",
+        "folder": "https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg",
+        "trailer": "https://www.youtube.com/embed/u7iLg9aJWLQ"
     }
 ]
