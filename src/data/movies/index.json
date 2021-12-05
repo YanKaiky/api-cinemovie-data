@@ -372,5 +372,93 @@
         "synopsis": "Um alerta vermelho da Interpol é emitido e o agente do FBI John Hartley assume o caso. Durante sua busca, ele se vê diante de um assalto ousado e é forçado a se aliar ao maior ladrão de arte da história, Nolan Booth, para capturar a ladra de arte mais procurada do mundo atualmente, Sarah Black.",
         "folder": "https://image.tmdb.org/t/p/w500/u9RnTxnyN8d9ypBp84LwZ2O8Q3S.jpg",
         "trailer": "https://www.youtube.com/embed/5JQuYpBZarc"
+    },
+    {
+        "id": 35,
+        "name": "Raya e o Último Dragão",
+        "genre": "Infantil/Fantasia",
+        "time": "1h 30m",
+        "year": 2021,
+        "direction": "Carlos López Estrada, Don Hall",
+        "synopsis": "Há muito tempo, no mundo de fantasia de Kumandra, humanos e dragões viviam juntos em harmonia. Mas quando uma força maligna ameaçou a terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, o mesmo mal voltou e cabe a uma guerreira solitária, Raya, rastrear o lendário último dragão para restaurar a terra despedaçada e seu povo dividido.",
+        "folder": "https://pbs.twimg.com/media/Esqmo5PXAAAmkGm.jpg",
+        "trailer": "https://www.youtube.com/embed/UJYgsi2VwQw"
+    },
+    {
+        "id": 36,
+        "name": "Como Treinar o Seu Dragão",
+        "genre": "Infantil/Aventura",
+        "time": "1h 38m",
+        "year": 2010,
+        "direction": "Chris Sanders, Dean DeBlois",
+        "synopsis": "Soluço é um adolescente viking da ilha de Berk, onde lutar contra dragões é um meio de vida. Suas opiniões avançadas e um senso de humor estranho o tornam um desajustado, apesar de seu pai ser o chefe do clã. Jogado em uma escola de combate a dragões, ele quer provar que é um verdadeiro viking, mas ao fazer amizade com um dragão machucado, ele tem a chance de mudar o futuro de seu povo.",
+        "folder": "http://2.bp.blogspot.com/-qYa8MUKGv88/TrRkdw64jfI/AAAAAAAABas/qgemO2ipAW0/s1600/how_to_train_your_dragon_ver3.jpg",
+        "trailer": "https://www.youtube.com/embed/uv1V9BOb2M8"
+    },
+    {
+        "id": 37,
+        "name": "Como Treinar o Seu Dragão 2",
+        "genre": "Aventura/Infantil",
+        "time": "1h 42m",
+        "year": 2014,
+        "direction": "Dean DeBlois",
+        "synopsis": "Cinco anos se passaram desde que Soluço estabeleceu a paz com os dragões e vive em harmonia, na Ilha de Berk, com Banguela. Eles voam, apostam corridas e se divertem muito. Em uma destas aventuras, descobrem uma caverna secreta cheia de dragões. Agora, a dupla luta para proteger Berk de um guerreiro perigoso, chamado Drago Bludvist, que deseja controlar todos os dragões existentes.",
+        "folder": "https://img.elo7.com.br/product/zoom/264EE7E/big-poster-filme-como-treinar-seu-dragao-2-lo01-tam-90x60-cm-nerd.jpg",
+        "trailer": "https://www.youtube.com/embed/bDb00cLSyM0"
+    },
+    {
+        "id": 38,
+        "name": "Como Treinar o Seu Dragão 3",
+        "genre": "Infantil/Fantasia",
+        "time": "1h 44m",
+        "year": 2019,
+        "direction": "Dean DeBlois",
+        "synopsis": "Soluço busca realizar seu grande sonho de encontrar um lar pacífico onde os dragões possam viver em segurança. Lá, Banguela descobre uma companheira, assim como ele, mas um tanto selvagem. Mas é quando o perigo começa a rondar o lar, que a dupla Banguela e Soluço é testada e precisa tomar decisões difíceis para salvar suas espécies.",
+        "folder": "https://img.elo7.com.br/product/original/264F45B/big-poster-filme-como-treinar-seu-dragao-3-lo01-tam-90x60-cm-poster-cinema.jpg",
+        "trailer": "https://www.youtube.com/embed/P5GAg92efK0"
+    },
+    {
+        "id": 39,
+        "name": "A Origem das Corridas de Dragão",
+        "genre": "Aventura/Curta-metragem",
+        "time": "26m",
+        "year": 2014,
+        "direction": "Elaine Bogan, John Sanford (II)",
+        "synopsis": "Soluço e Melequento competem e praticam captura de ovelhas para a Corrida de Dragão anual, o novo e oficial evento de esporte de dragões em Berk. No entanto, as lembranças da origem desta tradição divergem entre todos. Com isso, Astrid tenta recordar os acontecimentos de como e quem inventou a Corrida de Dragão.",
+        "folder": "https://media.fstatic.com/KCF4_wotP1_N-HEFbhrPrvjvh8U=/290x478/smart/media/movies/covers/2015/03/a-origem-das-corridas-de-dragao_t112894.jpg",
+        "trailer": "https://www.youtube.com/embed/WE2fS_Bx20w"
+    },
+    {
+        "id": 40,
+        "name": "Dragões: O Livro dos Dragões",
+        "genre": "Comédia/Curta-metragem",
+        "time": "18m",
+        "year": 2011,
+        "direction": "Steve Hickner",
+        "synopsis": "Então você quer ser um treinador de dragão não é? Prepare-se para emoção, aventura e treinamento com Soluço, Astrid, Banguela e Bocão contando a lenda por trás do Livro dos Dragões e revelando segredos sobre como os vikings viviam antes de conhecer os dragões.",
+        "folder": "https://static.wikia.nocookie.net/comotreinarseudragao/images/3/31/Book-of-dragons.29166.jpg/revision/latest?cb=20160422035259&path-prefix=pt-br",
+        "trailer": "https://www.youtube.com/embed/1MsE8YHcya8"
+    },
+    {
+        "id": 41,
+        "name": "Dragões: A Lenda do Dragão Quebra-Ossos",
+        "genre": "Curta-metragem/Animação",
+        "time": "16min",
+        "year": 2010,
+        "direction": "John Puglisi",
+        "synopsis": "Soluço e a turma dos vikings estão de volta para combater o arqui inimigo de Bocão - o lendário dragão Quebra-Ossos - nesta aventura de ação em grande escala. Naufragados numa misteriosa ilha, os corajosos garotos bolam um plano para capturar a criatura escondida, se é que ela existe!",
+        "folder": "https://image.tmdb.org/t/p/w500/fZHv7GYkS9wnalxvQ2G3ek8ZU3D.jpg",
+        "trailer": "https://www.youtube.com/embed/KkuwasaSZ4M"
+    },
+    {
+        "id": 42,
+        "name": "Dragões: O Presente do Fúria da Noite",
+        "genre": "Curta-metragem",
+        "time": "22m",
+        "year": 2011,
+        "direction": "Tom Owens (I)",
+        "synopsis": "Os Dragões estão de volta... A história épica de Soluço e Banguela continua em uma emocionante e nova aventura, para explorar uma ilha de dragões nunca vista antes. Muita ação e cuspidores de fogo colidem nesta história emocionante.",
+        "folder": "https://static.wikia.nocookie.net/dreamworksanimation/images/e/e4/Gift_of_the_Night_Fury_poster.jpg/revision/latest?cb=20181005173919&path-prefix=pt-br",
+        "trailer": "https://www.youtube.com/embed/UoxsSXPjqD4"
     }
 ]

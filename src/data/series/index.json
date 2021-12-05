@@ -86,8 +86,8 @@
     {
         "id": 8,
         "name": "Jurassic World: Acampamento Jurássico",
-        "seasons": 3,
-        "episodes": 26,
+        "seasons": 4,
+        "episodes": 37,
         "genre": "Aventura",
         "year": 2020,
         "direction": "Scott Kreamer, Lane Lueras, Steven Spielberg, Frank Marshall, Colin Trevorrow",
@@ -154,5 +154,53 @@
         "synopsis": "Depois de uma batalha catastrófica dividir Eternia, Teela e uma aliança improvável precisam evitar o fim do Universo.",
         "folder": "https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg",
         "trailer": "https://www.youtube.com/embed/u7iLg9aJWLQ"
+    },
+    {
+        "id": 14,
+        "name": "Dragões: Pilotos de Berk",
+        "seasons": 1,
+        "episodes": 20,
+        "genre": "Aventura",
+        "year": 2012,
+        "direction": "Anthony Bell, Joe Sichta, John Sanford (I), Louie del Carmen",
+        "synopsis": "A série acompanha as aventuras de Soluço, do seu dragão, Banguela, e do bando adolescente de treinadores de dragão enquanto eles tentam integrar essas feras ameaçadoras e selvagens à sociedade, na ilha de Berk. Eles não apenas aprenderão mais sobre seus dragões como também descobrirão novas espécies e lutarão contra inimigos enquanto exploram mundo desconhecidos.",
+        "folder": "https://i.pinimg.com/originals/13/3b/5a/133b5a40266babeb84a9b6c7c858d72e.jpg",
+        "trailer": "https://www.youtube.com/embed/V0-CgLQDLJA"
+    },
+    {
+        "id": 15,
+        "name": "Como Treinar o Seu Dragão: As Lendas",
+        "seasons": 1,
+        "episodes": 3,
+        "genre": "Animação/Aventura",
+        "year": 2011,
+        "direction": "Anthony Bell, Joe Sichta, John Sanford (I), Louie del Carmen",
+        "synopsis": "Soluço, Astrid e Gobber reescrevem os segredos do treinamento de 14 espécies de dragão. Depois, Gobber e a turma buscam o lendário Boneknapper.",
+        "folder": "https://image.tmdb.org/t/p/w500/fZHv7GYkS9wnalxvQ2G3ek8ZU3D.jpg",
+        "trailer": "https://www.youtube.com/embed/4sZQihyQAlA"
+    },
+    {
+        "id": 16,
+        "name": "Dragões: Defensores de Berk",
+        "seasons": 1,
+        "episodes": 20,
+        "genre": "Aventura",
+        "year": 2013,
+        "direction": "Anthony Bell, Joe Sichta, John Sanford (I), Louie del Carmen",
+        "synopsis": "A série acompanha as aventuras de Soluço, do seu dragão, Banguela, e do bando adolescente de treinadores de dragão enquanto eles tentam integrar essas feras ameaçadoras e selvagens à sociedade, na ilha de Berk. Eles não apenas aprenderão mais sobre seus dragões como também descobrirão novas espécies e lutarão contra inimigos enquanto exploram mundo desconhecidos.",
+        "folder": "https://s2.glbimg.com/xiW4DQcEUzqq1MpNBNsna88WN-Q=/362x536/https://s2.glbimg.com/1iaeBYylMyT9r1Of2VEImbP_xc0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/Q/F/mBFXs8SryqCwDla8AIDw/2020-810-series-universal-dragoes-defensores-de-berk-poster.jpg",
+        "trailer": "https://www.youtube.com/embed/KZdyn2ofCXA"
+    },
+    {
+        "id": 17,
+        "name": "Dragões: Corrida Até o Limite",
+        "seasons": 6,
+        "episodes": 78,
+        "genre": "Animação",
+        "year": 2015,
+        "direction": "Greg Rankin (I)",
+        "synopsis": "Soluço e Banguela estão de volta e prontos para muita ação na nova série da Dreamworks - Dragões: Corrida até o Limite. Nesta aventura, os heróis irão explorar novos mundos, procurar criaturas nunca vistas antes e acabar com a guerra entre os Vikings e os dragões de uma vez por todas. Produzida pela Netflix.",
+        "folder": "https://i.pinimg.com/564x/72/df/92/72df9292951ffd1a4067ce3a055cd231.jpg",
+        "trailer": "https://www.youtube.com/embed/NWBmTdsalws"
     }
 ]

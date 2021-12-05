@@ -82,5 +82,17 @@
         "synopsis": "Um garoto chamado Johnny Bolt percebe que pode controlar a eletricidade e logo começa a testar os limites de seus poderes recém-descobertos.",
         "folder": "https://jovemnerd.com.br/wp-content/uploads/2021/09/Super-Crooks-anime-netflix-mark-millar-810x1200.jpg",
         "trailer": "https://www.youtube.com/embed/qOCFaeaJVDQ"
+    },
+    {
+        "id": 8,
+        "name": "Dragon's Dogma",
+        "seasons": 1,
+        "episodes": 13,
+        "genre": "Fantasia sombria",
+        "year": 2020,
+        "direction": "Shinya Sugai",
+        "synopsis": "Depois que um dragão ataca uma aldeia, matando a família de um homem, ele arranca o coração daquele homem. Milagrosamente, este guerreiro sobrevive e se torna conhecido como Arisen, aquele que está destinado a derrotar o dragão.",
+        "folder": "https://i.pinimg.com/736x/0a/3f/69/0a3f69257ab4081ed71cb5b5ffa3939e.jpg",
+        "trailer": "https://www.youtube.com/embed/efq8ggI3xdg"
     }
 ]
