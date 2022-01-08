@@ -2,8 +2,8 @@
     {
         "id": 1,
         "name": "The Witcher",
-        "seasons": 1,
-        "episodes": 8,
+        "seasons": 2,
+        "episodes": 16,
         "genre": "Fantasia",
         "year": 2019,
         "direction": "Tomasz Bagiński, Alik Sakharov",
