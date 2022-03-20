@@ -8,15 +8,9 @@ const series = require("./src/data/series/index.json");
 const animes = require("./src/data/animes/index.json");
 
 const data = new Date();
-const day = data.getDate();
-const month = data.getUTCMonth();
-const year = data.getUTCFullYear();
-
-const hours = data.getHours();
-const minutes = data.getMinutes();
 
 server.get("/", (_, res) => {
-    return res.json({DateHour: `${day}/${month + 1}/${year} - ${hours}:${minutes}`})
+    return res.json({DateHour: `${data.toLocaleDateString('pt-BR')} - ${data.toTimeString()}`})
 })
 
 server.get("/animes", (_, res) => {
